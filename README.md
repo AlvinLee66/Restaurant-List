@@ -14,7 +14,7 @@
 * Get into your project folder by Terminal and enter `npm install`.
 
 ## How to use
-* After installation, enter `node app.js` to execute the localhost.
+* After installation, enter `npm run dev` to execute.
 * Open the browser, and enter the URL `http://localhost:3000`.
 
 ## Build with
