@@ -1,4 +1,5 @@
 # Restaurant List
+![image] (https://github.com/AlvinLee66/Restaurant-List/blob/main/Restaurant-List.png)
 <br>
 :sparkles: Record your favorite restaurant.  
 
